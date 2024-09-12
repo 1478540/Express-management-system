@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Addressee">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAQAAAMAAAIAAAAgIEAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>addressee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DbConnection" Collapsed="true">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAACEAAAAAAAJAQAABAAEAAAAAAAAAAAgAAgAAAAA=</HashCode>
+      <FileName>DbConnection.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DbExcepiton" Collapsed="true">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAACAAAAAAAEAAAAA=</HashCode>
+      <FileName>DbException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Package">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACBQAAAAAEAAAFEAAUCAAAAACFAAAkACAAAgAAAQA=</HashCode>
+      <FileName>package.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Staff">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAJAACEAAAAEAAAgAAALDAAAAAIAAAAAwAABAA=</HashCode>
+      <FileName>staff.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAIAAQIAAAAoAEgAAIAAAACABgAAABAAAAAAgAAA=</HashCode>
+      <FileName>system.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Cdate">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAQEAAAAA=</HashCode>
+      <FileName>Cdate.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,4 @@
+localhost
+root
+Hxf355636
+express_management_system
